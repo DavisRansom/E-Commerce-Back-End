@@ -70,7 +70,7 @@ router.delete('/:id', (req, res) => {
     }
   }).then(catDelete => {
     if(!catDelete) {
-      return res.status(404).json({message: `No category with ID: ${req.params.id}`});
+      return res.status(404).json({message: `There is currently no category with ID: ${req.params.id}`});
     }
     res.json(catDelete);
   }).catch((err) => {
