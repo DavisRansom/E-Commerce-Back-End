@@ -6,8 +6,6 @@ This application is a practice in seeding, providing the schema, and developing 
 
 This e-commerce back end application utilizes Seqeulize, Express, and Node.js to provide the schema for, seed, and run typical methods on a small database. The e-commerce site is seeded with information about products which are sorted into particular categories and have certain tags representing various labels. The relational database uses a one-to-many, and many-to-many approach to sorting, storing, recalling, replacing, and maintaining data.
 
-## Getting Started
-
 ### Dependencies
 
 * Sequelize
@@ -29,6 +27,9 @@ use The Terminal to navigate to the Develop folder then:
 2. Run: node seeds
 3. Run: npm start to begin the server
 4. Using Insomnia, Postman, or another route testing software, use the routes to bring up information from the database, add or delete information from the database, or replace information from the database with new information.
+
+The following video explains how to get started:
+https://watch.screencastify.com/v/FttREvG6lcZyAezdF6KQ
 
 ## Help
 
