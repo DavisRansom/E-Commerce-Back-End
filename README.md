@@ -29,7 +29,7 @@ use The Terminal to navigate to the Develop folder then:
 4. Using Insomnia, Postman, or another route testing software, use the routes to bring up information from the database, add or delete information from the database, or replace information from the database with new information.
 
 The following video explains how to get started:
-https://watch.screencastify.com/v/FttREvG6lcZyAezdF6KQ
+https://watch.screencastify.com/v/VjlhWQtXbM26vNzQXOoZ
 
 ## Help
 
